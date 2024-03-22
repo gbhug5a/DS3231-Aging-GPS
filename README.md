@@ -9,7 +9,7 @@ the Uno, Nano and Pro Mini.  The GPS module used was the Goouuu GT-U7, but
 any GPS module with a PPS output should work.  And any DS3231 module should
 work, with either the DS3231SN or the DS3231M chip.
 
-This process should find the optimum setting with a couple hours as opposed
+This process should find the optimum setting within a couple hours as opposed
 to spending days adjusting Aging to get the best time.  The setting is unique
 to each RTC chip.
 
